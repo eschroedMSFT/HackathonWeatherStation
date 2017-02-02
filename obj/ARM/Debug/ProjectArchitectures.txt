@@ -1,0 +1,1 @@
+C:\Users\eric\Documents\GitHub\AdafruitBME280WeatherStation\src\AdafruitBME280WeatherStation\AdafruitBME280WeatherStation.csproj;arm
